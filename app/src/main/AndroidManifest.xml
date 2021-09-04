@@ -11,13 +11,16 @@
         android:theme="@style/Theme.MyApplication">
         <activity
             android:name=".Details"
-            android:exported="true" />
+            android:exported="true"
+            android:parentActivityName=".Menu"/>
         <activity
             android:name=".Menu"
-            android:exported="true" />
+            android:exported="true"
+            android:parentActivityName=".MainActivity"/>
         <activity
             android:name=".AddDish"
-            android:exported="true" />
+            android:exported="true"
+            android:parentActivityName=".MainActivity"/>
         <activity
             android:name=".MainActivity"
             android:exported="true">

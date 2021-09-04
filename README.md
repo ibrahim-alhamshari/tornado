@@ -18,13 +18,13 @@
 - Here is my Application
 
 - **Main page**
-![main page](screenshots\mainPage.jpg)
+![main page](screenshots/mainPage.jpg)
 
 - **Add dish**
-![add dish](screenshots\addDish.jpg)
+![add dish](screenshots/addDish.jpg)
 
 - **menu page**
-![menu page](screenshots\menu.jpg)
+![menu page](screenshots/menu.jpg)
 
 - **show one dish(details)**
-![details](screenshots\details.jpg)
+![details](screenshots/details.jpg)
